@@ -24,6 +24,7 @@ header{
     padding: 0 30px;
     position: fixed;
     color: #ffffff;
+    border-radius: 5px;
 }
 
 
@@ -121,8 +122,7 @@ align-items: center;
     text-align: center;
     flex-direction: column;
     justify-content: center;
-    
-
 }
+
 
 
